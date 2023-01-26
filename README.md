@@ -10,6 +10,10 @@
 [<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />](https://join.slack.com/t/slack-ecf1905/shared_invite/zt-1dchj2jye-4sbvycFfFbPQVzpNFtVTjQ)
 </div>
 
+<div align="center">
+<a href=https://bruno-villalon.github.io/PortfolioV2><img src="https://img.shields.io/badge/My-Portfolio-success?style=for-the-badge&logo=appveyor" /></a>
+</div>
+
 ------
 <div align="center">
 <h3>Front-end Languages</h3>
